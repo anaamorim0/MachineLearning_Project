@@ -1,2 +1,4 @@
 # MachineLearning_Project
-Machine Learning I course project for 2024/2025, part of the 3rd year, 2nd semester of the Computer Science Bachelor degree
+The file **PraticalAssignment_ML1** outlines the tasks and requirements for the project.
+The jupyter notebook (**KNN.ipynb**) contains the code for this project.
+And the **AC1.pdf** is the powerpoint presentation, where it is explained what was done in this project.
